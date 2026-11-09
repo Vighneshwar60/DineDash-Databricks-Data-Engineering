@@ -68,3 +68,11 @@ DataNexis/
 ## Project Category
 
 Data Engineering | Data Analytics | Capstone Project
+
+## Project Screenshots
+
+### Databricks Analytics Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Data Engineering Pipeline
+![Pipeline](screenshots/pipeline.png)
